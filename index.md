@@ -24,4 +24,6 @@
 
 在研项目
 1. 大数据下的FPGA加速应用
-2. RobotCup
+2. RobotCup  
+
+[个人主页](https://github.com/QiQi-OvO)
